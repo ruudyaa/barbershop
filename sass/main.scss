@@ -1,0 +1,25 @@
+@import "./base/reset";
+@import "./base/common";
+@import "./base/hidden";
+
+@import "./utils/variables";
+@import "./utils/mixin";
+
+@import "./components/container";
+@import "./components/btn-success";
+@import "./components/pre-title";
+@import "./components/title";
+@import "./components/after-title";
+
+@import "./layouts/header";
+@import "./layouts/hero";
+@import "./layouts/about";
+@import "./layouts/prices";
+@import "./layouts/benefits";
+@import "./layouts/barbers";
+@import "./layouts/gallery";
+@import "./layouts/contact-wrap";
+@import "./layouts/form";
+@import "./layouts/contacts";
+@import "./layouts/footer";
+@import "./layouts/modal";
